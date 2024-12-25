@@ -1,0 +1,4 @@
+Model,Accuracy
+SVM,0.734
+GBDT,0.71
+Rule-Based,0.416
